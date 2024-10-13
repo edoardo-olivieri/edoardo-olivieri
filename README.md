@@ -1,6 +1,6 @@
-# Hi, I am Edoardo Olivieri 👋
+# Hey folks 👋
 
-Welcome to my GitHub profile! I am a Data Science student at Università degli Studi di Milano-Bicocca. 
+I am Edoardo Olivieri, a Data Science student at Università degli Studi di Milano-Bicocca. 
 
 ## Education 🎓
 - MSc student in Data Science at Università degli Studi di Milano-Bicocca
