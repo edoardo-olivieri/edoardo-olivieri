@@ -1,6 +1,6 @@
 # Hey folks 👋
 
-I am Edoardo Olivieri, a Data Science student at Università degli Studi di Milano-Bicocca. 
+I'm Edoardo Olivieri, a Data Science student at Università degli Studi di Milano-Bicocca. 
 
 ## Education 🎓
 - MSc student in Data Science at Università degli Studi di Milano-Bicocca
