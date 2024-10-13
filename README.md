@@ -8,8 +8,7 @@ I'm Edoardo Olivieri, a Data Science student at Università degli Studi di Milan
 
 ## Get in Contact 📬
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/edoardo-olivieri-6b73a52a1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edoardo.olivieri@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edoardo.olivieri@gmail.com)
 ## Skills 🚀
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
