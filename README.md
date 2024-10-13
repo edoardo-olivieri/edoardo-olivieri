@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a Data Science student at Università degli 
 
 
 ## Get in Contact 📬
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/edoardo-olivieri-6b73a52a1)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edoardo.olivieri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/edoardo-olivieri-6b73a52a1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](edoardo.olivieri@gmail.com)
 
 ## Projects 🔨
 
