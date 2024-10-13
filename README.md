@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a Data Science student at Università degli 
 ## Tech Stack 🚀
 Here are some of the technologies I work with:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=grey)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=r)
 
 ## GitHub Stats 📊
